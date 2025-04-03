@@ -1,0 +1,6 @@
+qrb_ros_transport_image_type:
+  ubuntu: [ros-jazzy-qrb-ros-transport-image-type]
+lib_mem_dmabuf:
+  ubuntu: [ros-jazzy-lib-mem-dmabuf]
+qrb_sensor_client:
+  ubuntu: [ros-jazzy-qrb-sensor-client]
